@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963032258132",
+    "project_id": "wslc-194",
+    "storage_bucket": "wslc-194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963032258132:android:d533e2d9a5f44878ac7fc1",
+        "android_client_info": {
+          "package_name": "com.example.wslc_194_firebase_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCCb2oIbeT8PeGHmAkPNOBBDrRNqBRQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
